@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "799299106581",
+    "firebase_url": "https://sahilclone-b924a.firebaseio.com",
+    "project_id": "sahilclone-b924a",
+    "storage_bucket": "sahilclone-b924a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799299106581:android:604872649546936c",
+        "android_client_info": {
+          "package_name": "com.example.sahil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799299106581-o2iagd5ef13n3bn5jtch3bpsjds7o0cf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sahil",
+            "certificate_hash": "56e9a13d19e14f0081756ced65330dafbfb6f7bd"
+          }
+        },
+        {
+          "client_id": "799299106581-8kdvd3npsov0p25ttob7qpec1hku88k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwZnibA02Lw9lGkfs_ICBYPkNL85ZqEaw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799299106581-8kdvd3npsov0p25ttob7qpec1hku88k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
